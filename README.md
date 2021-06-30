@@ -21,9 +21,9 @@ sudo htop
 
 The following is the log output of the program, temp divided by 1000 is the current CPU temperature
 
-![the result of htop](https://wiki.geekworm.com/images/0/0f/Rpi-cpu-stress-1.png)
+![the result of htop](https://raw.githubusercontent.com/geekworm-com/rpi-cpu-stress/main/rpi-cpu-stress-1.png)
 
-![log out](https://wiki.geekworm.com/images/0/0f/Rpi-cpu-stress-1.png)
+![log out](https://raw.githubusercontent.com/geekworm-com/rpi-cpu-stress/main/rpi-cpu-stress-2.png)
 
 ## Test result
 The 4 CPU cores are running at full load, the maximum temperature of the CPU core does not exceed 75 degrees, and the surface of the shell does not generate heat, which meets the design requirements.
